@@ -1,0 +1,9 @@
+
+Training:
+1. Input file "training_input.txt"
+2. Execute the "Training.c" for training the patterns.
+
+
+Recognition:
+1. Input file "recognition_pattern.txt"
+2. Execute the "Recognition.c" for recognizing a unknown pattern.
